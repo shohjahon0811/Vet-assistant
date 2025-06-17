@@ -19,4 +19,5 @@ Bu loyiha veterinar hayvon egalari oʻrtasidagi muloqotni tizimlashtirish va oso
 ---
 
 🎯 Ushbu loyiha [President Tech Award](https://tech.president.uz) kabi tanlovlar uchun mo‘ljallangan.
-![Vet Assistant logotipi](https://i.ibb.co/vLwvj8x/vet-logo.png)
+https://ibb.co/4RdFcT5Y
+https://ibb.co/gMgS9fzg
