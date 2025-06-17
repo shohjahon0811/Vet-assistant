@@ -1,6 +1,3 @@
- 
-![Vet Assistant logotipi](https://i.ibb.co/vLwvj8x/vet-logo.png)
-
 # 🐾 Vet Assistant
 
 **Vet Assistant** — bu veterinariya sohasi uchun yaratilgan zamonaviy yordamchi platforma. Ushbu loyiha hayvon egalari bilan veterinarlar o‘rtasidagi aloqani soddalashtiradi, dori vositalari, kasalliklar va statistik ma’lumotlarni boshqarishda yordam beradi.
