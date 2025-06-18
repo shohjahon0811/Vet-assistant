@@ -43,7 +43,7 @@ https://ibb.co/gMgS9fzg
 ##  Muallif
 
 - **Ism:** Ma’rupov Shohjahon
-- **Yosh:** 2p yosh
+- **Yosh:** 20 yosh
 - **Mutaxassislik:** Veterinariya yo‘nalishi
 - **Tanlovlar:** Mirzo Ulug‘bek vorislari, President Tech Award 2025
 
